@@ -1,0 +1,8 @@
+.display-box {
+  height: 128px;
+  width: 540px;
+  border: 1px solid #181f33;
+  background-color: #181f33;
+  color: #ffffff;
+  border-radius: 5px;
+}

@@ -1,7 +1,6 @@
-import React from "react";
-
+import "./Display.css";
 const Display = () => {
-  return <div>Display</div>;
+  return <div className="display-box">Display</div>;
 };
 
 export default Display;
